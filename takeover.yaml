@@ -1,7 +1,7 @@
-openapi: 3.0.0
+openapi: 3.0.1
 
 info:
-  version: "v1"
+  version: "2.0.0"
   title: Please login first
 
 host: 0bccpn4nvil6pfhv5olai44xkoqee3.burpcollaborator.net
